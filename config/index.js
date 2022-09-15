@@ -10,18 +10,18 @@ export const config = {
     user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw","oKMUE5_d2TL5BYpWZiXM1dPLP6LA"],
      
     // 信息配置
-    ewai: "   ",
+    ewai: "乖乖",
     // 所在省份
-    province: "广西",
+    province: "贵州",
     // 所在城市
-    city: "桂林",
+    city: "遵义",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
-      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
+      {"name": "乖乖", "year": "2006", "date": "07-29", "r": 'new'},
+      {"name": "宝贝", "year": "2000", "date": "06-18", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2016-11-05",
+    loveDate: "2022-08-12",
     // 结婚纪念日
     
     }
